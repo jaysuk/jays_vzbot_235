@@ -1,0 +1,1 @@
+stepper.DriverType = {none, none, tmc2209, tmc2209, tmc5160, tmc5160, tmc5160, tmc5160}
